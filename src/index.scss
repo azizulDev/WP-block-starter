@@ -1,0 +1,14 @@
+.flexibleStarBlock{
+    background: red;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+    &__icon{
+        font-size: 22px;
+        margin-right: 5px;
+        margin-left: 5px;
+    }
+}
+
